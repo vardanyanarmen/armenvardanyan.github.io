@@ -1,0 +1,44 @@
+body {
+background: grey;
+}
+.left {
+float: left;
+width: 25%;
+height: 100px;
+background-color: orange;
+}
+
+.o_list{
+color: white;
+font-size: 18px;
+}
+
+.u_list{background: brown;
+float: left;
+width: 15%;
+height: 80px;	
+}
+
+.up{
+float:left;
+background-color: red;
+width: 25%;
+height: 200px;
+}
+
+.down: {
+float:bottom ;
+background-color: red;
+width: 25%;
+height: 200px;
+}
+
+.text{
+color: blue;
+font-size: 40px;
+font-style: oblique;
+}
+
+#changeColor {
+        color:red;   
+}
